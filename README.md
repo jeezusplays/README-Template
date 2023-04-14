@@ -1,2 +1,19 @@
 # README-Template
-My Go-To README Template to get started on Project Documentation
+
+## About The Project
+
+## Built With
+
+## Getting Started
+### Prerequisites
+### Installation
+
+## Usage
+
+## Contributing
+
+## License
+
+## Contact
+
+## Acknowledgements
