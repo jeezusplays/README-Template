@@ -1,4 +1,8 @@
 # README-Template
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 ## About The Project
 
 ## Built With
@@ -11,7 +15,7 @@
 
 ## Contributing
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+**Don't forget to give the project a star!** Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b /newFeature`)
@@ -40,3 +44,10 @@ Examples:
 * [Img Shields](https://shields.io)
 * [Font Awesome](https://fontawesome.com)
 
+
+[forks-shield]: https://img.shields.io/github/forks/jeezusplays/README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/jeezusplays/README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeezusplays/README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/jeezusplays/README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeezusplays/README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/jeezusplays/README-Template/issues
