@@ -13,6 +13,11 @@ This template will streamline the process of creating README files and provide v
 Use the `BLANK_README.md` (_in progress_) to get started!
 
 ## Built With
+### Major Frameworks / Libraries 
+_Examples of Major Frameworks and Libraries_
+
+### APIs 
+_Examples of APIs used_
 
 ## Getting Started
 ### Prerequisites
@@ -41,7 +46,7 @@ Feel free to contact and connect!
 |<img src="https://avatars.githubusercontent.com/u/68149788?v=4" width="100"></img>|Tan Zuyi Joey|Project Manager|[![jeezusplays](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jeezusplays)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/joey-tan-zuyi)|
 
 ## Acknowledgements
-Use this space to list resources you find helpful and would like to give credit to.
+_Use this space to list resources you find helpful and would like to give credit to._
 
 Examples:
 * [Choose an Open Source License](https://choosealicense.com)
@@ -50,6 +55,7 @@ Examples:
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [Font Awesome](https://fontawesome.com)
+* [Github Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/)
 
 
 [forks-shield]: https://img.shields.io/github/forks/jeezusplays/README-Template.svg?style=for-the-badge
