@@ -2,6 +2,30 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/jeezusplays/README-template">
+    <img src="logo/logo.png" alt="Logo" width="100" height="100">
+  </a>
+
+<h3 align="center">README Template</h3>
+
+  <p align="center">
+    Easy to Use README Template for all your projects!
+    <br />
+    <a href="https://github.com/jeezusplays/README-template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jeezusplays/README-template">View Demo</a>
+    ·
+    <a href="https://github.com/jeezusplays/README-template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jeezusplays/README-template/issues">Request Feature</a>
+  </p>
+</div>
+
+
 ## About The Project
 As a frequent contributor to my GitHub repository, I've often struggled with finding the perfect README template that suits my needs. After hours of scouring through various templates, I've decided to take matters into my own hands and create my very own README template. My aim is to create a comprehensive yet concise guide that outlines all the necessary information regarding my projects, including: 
 * Installation instructions
@@ -19,9 +43,9 @@ _Examples of Major Frameworks and Libraries_
 #### Front-end frameworks and libraries
 1. React - A JavaScript library for building user interfaces.
 2. Angular - A TypeScript-based web application framework.
-Vue.js - A progressive JavaScript framework for building user interfaces.
-3. Bootstrap - A popular CSS framework for building responsive websites.
-4. Material UI - A React component library implementing Google's Material Design.
+3. Vue.js - A progressive JavaScript framework for building user interfaces.
+4. Bootstrap - A popular CSS framework for building responsive websites.
+5. Material UI - A React component library implementing Google's Material Design.
 
 #### Back-end frameworks and libraries
 1. Express - A popular Node.js framework for building web applications.
